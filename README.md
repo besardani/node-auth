@@ -2,5 +2,5 @@
 
 Steps:
 - Clone repo
-- Type: npm i
-- Run with : npm start
+- Type: `npm i`
+- Run with : `npm start`
